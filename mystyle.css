@@ -1,0 +1,25 @@
+body {
+    font-family: 'Frijole', cursive;
+    background-image: url("splatter.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+
+}
+
+#container {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 10%;
+}
+
+h2 {
+    font-size: 4em;
+}
+
+p {
+    font-size: 2em;
+}
